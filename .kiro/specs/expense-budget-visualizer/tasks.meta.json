@@ -1,0 +1,322 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` with semantic layout": [
+      {
+        "executionId": "7df309e9-894e-4407-b461-6316a43beaaa",
+        "chatSessionId": "sess_4eae7a6b-dacd-4cda-af60-c8f0540d9680",
+        "timestamp": 1786158804553
+      },
+      {
+        "executionId": "7df309e9-894e-4407-b461-6316a43beaaa",
+        "chatSessionId": "sess_4eae7a6b-dacd-4cda-af60-c8f0540d9680",
+        "timestamp": 1786158877454
+      }
+    ],
+    "1.2 Create `css/style.css` with baseline reset and section spacing": [
+      {
+        "executionId": "f70037a4-7adc-449d-81f7-23f158931c9a",
+        "chatSessionId": "sess_d626db7a-c9ca-41b0-bb31-0f5bd4195ed4",
+        "timestamp": 1786159027632
+      },
+      {
+        "executionId": "f70037a4-7adc-449d-81f7-23f158931c9a",
+        "chatSessionId": "sess_d626db7a-c9ca-41b0-bb31-0f5bd4195ed4",
+        "timestamp": 1786159082977
+      }
+    ],
+    "1.3 Create `js/app.js` skeleton with namespace stubs": [
+      {
+        "executionId": "ba738851-4008-40c7-840f-26023865f7aa",
+        "chatSessionId": "sess_c3865be6-b00d-4dd8-b7a2-e2af477d73ce",
+        "timestamp": 1786159126481
+      },
+      {
+        "executionId": "ba738851-4008-40c7-840f-26023865f7aa",
+        "chatSessionId": "sess_c3865be6-b00d-4dd8-b7a2-e2af477d73ce",
+        "timestamp": 1786159174972
+      }
+    ],
+    "1. Scaffold project structure": [
+      {
+        "executionId": "ba738851-4008-40c7-840f-26023865f7aa",
+        "chatSessionId": "sess_c3865be6-b00d-4dd8-b7a2-e2af477d73ce",
+        "timestamp": 1786159175615
+      }
+    ],
+    "2.1 Implement `Storage.save`, `Storage.load`, `Storage.clear`": [
+      {
+        "executionId": "773177c0-3e63-4c60-bfc3-0ce473cbbabe",
+        "chatSessionId": "sess_46697656-5d10-4537-ac0a-81913d901307",
+        "timestamp": 1786159205949
+      },
+      {
+        "executionId": "773177c0-3e63-4c60-bfc3-0ce473cbbabe",
+        "chatSessionId": "sess_46697656-5d10-4537-ac0a-81913d901307",
+        "timestamp": 1786159253888
+      }
+    ],
+    "2. Implement Storage layer": [
+      {
+        "executionId": "773177c0-3e63-4c60-bfc3-0ce473cbbabe",
+        "chatSessionId": "sess_46697656-5d10-4537-ac0a-81913d901307",
+        "timestamp": 1786159254872
+      }
+    ],
+    "3.1 Implement `Validator.validateName`, `Validator.validateAmount`, `Validator.validateCategory`, `Validator.validateForm`": [
+      {
+        "executionId": "9b254752-7943-4e24-983b-8fa0172c4298",
+        "chatSessionId": "sess_0808846a-a0e4-48c1-8596-2e47fb38ccaf",
+        "timestamp": 1786159296551
+      },
+      {
+        "executionId": "9b254752-7943-4e24-983b-8fa0172c4298",
+        "chatSessionId": "sess_0808846a-a0e4-48c1-8596-2e47fb38ccaf",
+        "timestamp": 1786159582197
+      },
+      {
+        "executionId": "fc127e2f-4918-4cd6-8641-5cb9b2c73950",
+        "chatSessionId": "sess_2e86b035-a814-4e4e-83fb-b850d5efbc5d",
+        "timestamp": 1786159597189
+      },
+      {
+        "executionId": "fc127e2f-4918-4cd6-8641-5cb9b2c73950",
+        "chatSessionId": "sess_2e86b035-a814-4e4e-83fb-b850d5efbc5d",
+        "timestamp": 1786159823911
+      }
+    ],
+    "3. Implement Validator": [
+      {
+        "executionId": "9b254752-7943-4e24-983b-8fa0172c4298",
+        "chatSessionId": "sess_0808846a-a0e4-48c1-8596-2e47fb38ccaf",
+        "timestamp": 1786159582641
+      }
+    ],
+    "4.1 Implement `Model` internal state and CRUD methods": [
+      {
+        "executionId": "323d31e3-636b-4298-8389-9e6045428405",
+        "chatSessionId": "sess_61461b99-bc28-4b06-b5e3-a094525bce9f",
+        "timestamp": 1786159834177
+      },
+      {
+        "executionId": "323d31e3-636b-4298-8389-9e6045428405",
+        "chatSessionId": "sess_61461b99-bc28-4b06-b5e3-a094525bce9f",
+        "timestamp": 1786160357392
+      }
+    ],
+    "4.2 Implement `Model.computeBalance` and `Model.computeChartData`": [
+      {
+        "executionId": "69d684d7-5b6c-4402-a688-b1322fb15124",
+        "chatSessionId": "sess_79a3f83e-5fab-4a0b-a507-7ec3dcd862f9",
+        "timestamp": 1786160372303
+      },
+      {
+        "executionId": "69d684d7-5b6c-4402-a688-b1322fb15124",
+        "chatSessionId": "sess_79a3f83e-5fab-4a0b-a507-7ec3dcd862f9",
+        "timestamp": 1786160843562
+      }
+    ],
+    "4. Implement Model layer": [
+      {
+        "executionId": "69d684d7-5b6c-4402-a688-b1322fb15124",
+        "chatSessionId": "sess_79a3f83e-5fab-4a0b-a507-7ec3dcd862f9",
+        "timestamp": 1786160845301
+      }
+    ],
+    "6.1 Implement `View.renderList` and empty-state handling": [
+      {
+        "executionId": "ebdcfbed-e666-4a0d-8fef-4f0f8b1b364f",
+        "chatSessionId": "sess_c85ea442-17cd-44ea-b9f5-206cc10e7af7",
+        "timestamp": 1786160859451
+      },
+      {
+        "executionId": "ebdcfbed-e666-4a0d-8fef-4f0f8b1b364f",
+        "chatSessionId": "sess_c85ea442-17cd-44ea-b9f5-206cc10e7af7",
+        "timestamp": 1786161092608
+      }
+    ],
+    "6. Implement View layer": [
+      {
+        "executionId": "44332f44-8014-476e-9154-f72c7fb47b90",
+        "chatSessionId": "sess_6f932fc8-c35b-498b-968f-9083c45c5073",
+        "timestamp": 1786161118935
+      },
+      {
+        "executionId": "44332f44-8014-476e-9154-f72c7fb47b90",
+        "chatSessionId": "sess_6f932fc8-c35b-498b-968f-9083c45c5073",
+        "timestamp": 1786161226065
+      }
+    ],
+    "6.3 Implement `View.renderBalance`": [
+      {
+        "executionId": "44332f44-8014-476e-9154-f72c7fb47b90",
+        "chatSessionId": "sess_6f932fc8-c35b-498b-968f-9083c45c5073",
+        "timestamp": 1786161214170
+      },
+      {
+        "executionId": "596d5468-3238-4889-9af8-d57d20291c96",
+        "chatSessionId": "sess_d081e232-1435-4fd3-8d7f-982d4095f92d",
+        "timestamp": 1786161241405
+      },
+      {
+        "executionId": "596d5468-3238-4889-9af8-d57d20291c96",
+        "chatSessionId": "sess_d081e232-1435-4fd3-8d7f-982d4095f92d",
+        "timestamp": 1786161391300
+      }
+    ],
+    "6.4 Implement `View.showFormErrors`, `View.clearFormErrors`, `View.resetForm`": [
+      {
+        "executionId": "44332f44-8014-476e-9154-f72c7fb47b90",
+        "chatSessionId": "sess_6f932fc8-c35b-498b-968f-9083c45c5073",
+        "timestamp": 1786161219351
+      },
+      {
+        "executionId": "79c3fb38-07b4-4343-83e6-038346c76d09",
+        "chatSessionId": "sess_ced61585-2916-4482-b2a2-7c2cb0cb0863",
+        "timestamp": 1786161407266
+      },
+      {
+        "executionId": "dcb6a964-ff17-450a-9357-9a87829bd5d2",
+        "chatSessionId": "sess_aa838456-a051-4f23-9b58-faa5fa6c283f",
+        "timestamp": 1786161663866
+      },
+      {
+        "executionId": "dcb6a964-ff17-450a-9357-9a87829bd5d2",
+        "chatSessionId": "sess_aa838456-a051-4f23-9b58-faa5fa6c283f",
+        "timestamp": 1786162122560
+      },
+      {
+        "executionId": "f572442a-75da-42e6-9fd4-3d71e01bf287",
+        "chatSessionId": "sess_858ffc38-a687-4505-a261-022793b6d435",
+        "timestamp": 1786162147643
+      },
+      {
+        "executionId": "f572442a-75da-42e6-9fd4-3d71e01bf287",
+        "chatSessionId": "sess_858ffc38-a687-4505-a261-022793b6d435",
+        "timestamp": 1786162274808
+      }
+    ],
+    "6.5 Implement `View.showNotification` and `View.showSectionFallback`": [
+      {
+        "executionId": "44332f44-8014-476e-9154-f72c7fb47b90",
+        "chatSessionId": "sess_6f932fc8-c35b-498b-968f-9083c45c5073",
+        "timestamp": 1786161225324
+      },
+      {
+        "executionId": "33afc584-a2ec-4470-a59e-6ecb0bbe3323",
+        "chatSessionId": "sess_e0f65b4d-4d70-43a4-8020-9001d6b9f571",
+        "timestamp": 1786161449542
+      },
+      {
+        "executionId": "33afc584-a2ec-4470-a59e-6ecb0bbe3323",
+        "chatSessionId": "sess_e0f65b4d-4d70-43a4-8020-9001d6b9f571",
+        "timestamp": 1786161482422
+      }
+    ],
+    "7.1 Implement `ChartManager.getConfig`, `ChartManager.update`, `ChartManager.destroy`": [
+      {
+        "executionId": "b9c7007a-8773-4551-92ef-42a1b9f0d730",
+        "chatSessionId": "sess_6cd2b784-954a-4a9d-a1fc-7972063eb9b5",
+        "timestamp": 1786161494704
+      },
+      {
+        "executionId": "b9c7007a-8773-4551-92ef-42a1b9f0d730",
+        "chatSessionId": "sess_6cd2b784-954a-4a9d-a1fc-7972063eb9b5",
+        "timestamp": 1786161564270
+      }
+    ],
+    "7.2 Implement `View.renderChart` and `View.renderChartPlaceholder`": [
+      {
+        "executionId": "77b0218d-7f2c-4d47-b863-fe69f999a3a1",
+        "chatSessionId": "sess_ac0affaf-e8bc-4b84-936d-dd25ea8da828",
+        "timestamp": 1786161576226
+      },
+      {
+        "executionId": "77b0218d-7f2c-4d47-b863-fe69f999a3a1",
+        "chatSessionId": "sess_ac0affaf-e8bc-4b84-936d-dd25ea8da828",
+        "timestamp": 1786161649296
+      }
+    ],
+    "7. Implement ChartManager and chart rendering": [
+      {
+        "executionId": "77b0218d-7f2c-4d47-b863-fe69f999a3a1",
+        "chatSessionId": "sess_ac0affaf-e8bc-4b84-936d-dd25ea8da828",
+        "timestamp": 1786161650218
+      }
+    ],
+    "8.1 Implement `Controller.handleFormSubmit`": [
+      {
+        "executionId": "905a856e-02a1-469b-9db9-d6b4fe3ef9f4",
+        "chatSessionId": "sess_a9b15ef6-cfb9-4c8a-86ea-cddd46fed7bb",
+        "timestamp": 1786162292235
+      },
+      {
+        "executionId": "905a856e-02a1-469b-9db9-d6b4fe3ef9f4",
+        "chatSessionId": "sess_a9b15ef6-cfb9-4c8a-86ea-cddd46fed7bb",
+        "timestamp": 1786162373212
+      }
+    ],
+    "8.2 Implement `Controller.handleDelete`": [
+      {
+        "executionId": "389cd9ad-55e2-4b29-86a3-eb199d2a9c27",
+        "chatSessionId": "sess_e77bf9a5-a521-41ec-b94d-37ef024adc31",
+        "timestamp": 1786162388623
+      },
+      {
+        "executionId": "389cd9ad-55e2-4b29-86a3-eb199d2a9c27",
+        "chatSessionId": "sess_e77bf9a5-a521-41ec-b94d-37ef024adc31",
+        "timestamp": 1786162481079
+      }
+    ],
+    "8.3 Implement `Controller.init`": [
+      {
+        "executionId": "029c6a52-7275-41b8-ad76-40ec33e70e0a",
+        "chatSessionId": "sess_46d8a455-3807-42a7-a741-228a0d86249b",
+        "timestamp": 1786162494546
+      },
+      {
+        "executionId": "029c6a52-7275-41b8-ad76-40ec33e70e0a",
+        "chatSessionId": "sess_46d8a455-3807-42a7-a741-228a0d86249b",
+        "timestamp": 1786162590384
+      }
+    ],
+    "8. Implement Controller and event wiring": [
+      {
+        "executionId": "029c6a52-7275-41b8-ad76-40ec33e70e0a",
+        "chatSessionId": "sess_46d8a455-3807-42a7-a741-228a0d86249b",
+        "timestamp": 1786162592603
+      }
+    ],
+    "10.1 Implement responsive layout rules": [
+      {
+        "executionId": "7584eac6-b284-4193-9354-1f293d6d5c64",
+        "chatSessionId": "sess_1469591a-be35-49fc-9c2b-d0626c745506",
+        "timestamp": 1786162616887
+      },
+      {
+        "executionId": "7584eac6-b284-4193-9354-1f293d6d5c64",
+        "chatSessionId": "sess_1469591a-be35-49fc-9c2b-d0626c745506",
+        "timestamp": 1786162679966
+      }
+    ],
+    "10.2 Implement typography, color, spacing, and accessibility styles": [
+      {
+        "executionId": "f09772be-2da3-4b76-ab1c-c156d1e2f83a",
+        "chatSessionId": "sess_66e294a0-e0dc-4f14-b0c7-99c8aaa3209d",
+        "timestamp": 1786162693106
+      },
+      {
+        "executionId": "f09772be-2da3-4b76-ab1c-c156d1e2f83a",
+        "chatSessionId": "sess_66e294a0-e0dc-4f14-b0c7-99c8aaa3209d",
+        "timestamp": 1786162944423
+      }
+    ],
+    "10. Complete CSS layout and visual design": [
+      {
+        "executionId": "f09772be-2da3-4b76-ab1c-c156d1e2f83a",
+        "chatSessionId": "sess_66e294a0-e0dc-4f14-b0c7-99c8aaa3209d",
+        "timestamp": 1786162945366
+      }
+    ]
+  }
+}
